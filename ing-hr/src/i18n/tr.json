@@ -1,0 +1,32 @@
+{
+    "translation": {
+        "home": {
+            "greeting": "ING HR uygulaması.",
+            "showEmployees": "Çalışanlar listesini görmek için başlıktaki çalışanlar butonuna tıklayınız."
+        },
+        "header": {
+            "btnEmployees": "Çalışanlar",
+            "btnAddNew": "Yeni çalışan ekle"
+        },
+        "employeesTable": {
+            "firstName": "Adı",
+            "lastName": "Soyadı",
+            "dateOfEmployment": "Giriş Tarihi",
+            "dateOfBirth": "Doğum Tarihi",
+            "phone": "Telefon",
+            "email": "E-posta",
+            "department": "Departman",
+            "position": "Pozisyon",
+            "actions": "İşlemler"
+        },
+        "global": {
+            "language": "TR",
+            "userUpdated": "Çalışan güncellendi!",
+            "userSaved": "Yeni çalışan kaydedildi.!",
+            "save": "Kaydet",
+            "update": "Güncelle",
+            "newEmployee": "Yeni çalışan",
+            "updateEmployee": "Çalışanı güncelle"
+        }
+    }
+}

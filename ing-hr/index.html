@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <meta
+    name="viewport"
+    content="width=device-width, user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimal-ui"
+  />
+    <title>ING HR</title>
+  </head>
+  <body>
+    <div id="demo"></div>
+
+    <script type="module">
+      import { html, render } from 'lit';
+      import './routing-with-lit.ts';
+  
+      const header = 'Hello owc World!';
+      render(
+        html`
+          <routing-with-lit>
+          </routing-with-lit>
+        `,
+        document.querySelector('#demo')
+      );
+    </script>
+  </body>
+</html>

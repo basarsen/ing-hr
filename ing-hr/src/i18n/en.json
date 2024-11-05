@@ -1,0 +1,32 @@
+{
+    "translation": {
+        "home": {
+            "greeting": "ING HR application.",
+            "showEmployees": "To see the list of employees, click on the employees button in the header."
+        },
+        "header": {
+            "btnEmployees": "Employees",
+            "btnAddNew": "Add New"
+        },
+        "employeesTable": {
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "dateOfEmployment": "Date of Employment",
+            "dateOfBirth": "Date of Birth",
+            "phone": "Phone",
+            "email": "Email",
+            "department": "Department",
+            "position": "Position",
+            "actions": "Actions"
+        },
+        "global": {
+            "language": "EN",
+            "userUpdated": "Employee updated!",
+            "userSaved": "New employee saved!",
+            "save": "Save",
+            "update": "Update",
+            "newEmployee": "New Employee",
+            "updateEmployee": "Update Employee"
+        }
+    }
+}
